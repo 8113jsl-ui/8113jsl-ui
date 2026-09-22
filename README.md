@@ -1,4 +1,4 @@
-# 이재서의 프로필👋
+# 이재서의 프로필 
 
 <!--
 **8113jsl-ui/8113jsl-ui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
